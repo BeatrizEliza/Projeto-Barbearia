@@ -1,6 +1,7 @@
 # Projeto-Barbearia
 
 ### Site desenvolvido para uma barbearia fictícia como forma de estudo e aprofundamento.
+##### Curso oferecido por: Alura
 
 #### Tecnologias utilizadas:
 
